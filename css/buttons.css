@@ -1,0 +1,11 @@
+.main {
+    margin-top: 100px;;
+}
+.google-logo {
+    display : block;
+    width: 300px;
+}
+.search-bar {
+    width: 400px;
+    display: block;
+}
